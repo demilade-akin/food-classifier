@@ -1,0 +1,12 @@
+# Downloads and generated data (rebuild them with the scripts)
+/data/raw/
+/data/clean/
+/data/split/
+*.part
+
+# Python, Jupyter, editor and macOS clutter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+/.idea/

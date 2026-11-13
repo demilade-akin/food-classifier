@@ -1,0 +1,15 @@
+[project]
+name = "tme6015-food-classifier"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "imagehash>=4.3.2",
+    "jupyterlab>=4.5.11",
+    "matplotlib>=3.9.4",
+    "numpy",
+    "pandas>=2.3.3",
+    "pillow>=11.3.0",
+    "requests>=2.32.5",
+    "scikit-learn>=1.6.1",
+    "tensorflow>=2.20.0",
+]
