@@ -13,3 +13,8 @@ dependencies = [
     "scikit-learn>=1.6.1",
     "tensorflow>=2.20.0",
 ]
+
+[dependency-groups]
+dev = [
+    "reportlab>=5.1.0",
+]
